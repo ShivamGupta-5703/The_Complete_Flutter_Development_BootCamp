@@ -3,8 +3,11 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   cloud_firestore
   firebase_auth
+=======
+>>>>>>> a40618ca8d1d7406ccc9147392a8b1e5b9658e5f
   firebase_core
   modal_progress_hud_nsn
 )
